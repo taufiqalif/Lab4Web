@@ -69,3 +69,38 @@ maka akan tampil seperti gambar di bawah
 maka akan tampil seperti gambar di bawah
 
 ![08.png](img/08.png)
+
+## membuat tampilan layout sederhaman
+
+1.  kita buat dokumen `HTML` terlebih dahulu
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+        </head>
+        <body>
+
+        </body>
+        </html>
+
+2.  tulis kode berikut ini
+
+![09.png](img/09.png)
+
+maka akan menampilkan
+
+![10.png](img/10.png)
+
+menambahkan style 
+
+![11.png](img/11.png)
+
+menampilkan 
+
+![12.png](img/13.png)
+
+
