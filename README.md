@@ -178,3 +178,39 @@ menambahkan style
 ![28.png](img/28.png)
 
 ![29.png](img/29.png)
+
+### about
+
+1. buat file HTML baru
+
+2. membuat halaman about singgel layout
+
+![30.png](img/30.png)
+
+menambahkan style
+
+![31.png](img/31.png)
+
+maka akan memapilkan sebagai berikut
+
+![32.png](img/32.png)
+
+### kontak
+
+1. buat file HTML baru
+
+2. membuat form
+
+![33.png](img/33.png)
+
+menambahkan style
+
+![34.png](img/34.png)
+
+style untuk tombol
+
+![35.png](img/35.png)
+
+maka akan menampilkan form
+
+![36.png](img/36.png)
