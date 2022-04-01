@@ -142,3 +142,28 @@ menambahkan style
 maka akan menampilkan sebagai berikut
 
 ![20.png](img/20.png)
+
+7.  membuat footer
+
+        <footer>
+          <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+        </footer>
+
+tambahkan CSS untuk footer
+
+![21.png](img/21.png)
+
+![22.png](img/22.png)
+
+8. Menambahkan Elemen lainnya pada Main Content
+
+![23.png](img/23.png)
+
+menambahkan style
+
+![24.png](img/24.png)
+![25.png](img/25.png)
+
+maka akan menampilkan
+
+![26.png](img/26.png)
