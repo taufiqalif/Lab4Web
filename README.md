@@ -95,12 +95,46 @@ maka akan menampilkan
 
 ![10.png](img/10.png)
 
-menambahkan style 
+menambahkan style
 
 ![11.png](img/11.png)
 
-menampilkan 
+menampilkan
 
-![12.png](img/13.png)
+![12.png](img/12.png)
 
+3. membuat navigasi
 
+![13.png](img/13.png)
+
+refres browser maka akan menampilkan
+
+![14.png](img/14.png)
+
+4. Membuat Hero Panel
+
+tulis code HTML dan CSS sebagai berikut
+
+![15.png](img/15.png)
+
+![16.png](img/16.png)
+
+5. Mengatur Layout Main dan Sidebar
+
+tambahkan css float
+
+![17.png](img/17.png)
+
+6. Membuat Sidebar Widget
+
+menambahkan element lain dalam sidebar
+
+![18.png](img/18.png)
+
+menambahkan style
+
+![19.png](img/19.png)
+
+maka akan menampilkan sebagai berikut
+
+![20.png](img/20.png)
