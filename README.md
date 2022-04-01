@@ -119,6 +119,10 @@ tulis code HTML dan CSS sebagai berikut
 
 ![16.png](img/16.png)
 
+maka akan menampilkan
+
+![016.png](img/016.png)
+
 5. Mengatur Layout Main dan Sidebar
 
 tambahkan css float
