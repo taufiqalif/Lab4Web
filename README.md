@@ -167,3 +167,14 @@ menambahkan style
 maka akan menampilkan
 
 ![26.png](img/26.png)
+
+9. Menambahkan Content Artikel
+   Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content
+
+![27.png](img/27.png)
+
+menambahkan style
+
+![28.png](img/28.png)
+
+![29.png](img/29.png)
